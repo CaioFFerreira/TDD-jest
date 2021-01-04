@@ -1,0 +1,2 @@
+Gerar um package.json
+npm init -y
