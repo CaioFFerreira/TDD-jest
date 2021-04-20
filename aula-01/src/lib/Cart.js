@@ -1,5 +1,8 @@
 import find from 'lodash/find';
 import remove from 'lodash/remove';
+import Dinero from 'dinero.js';
+
+const Money = Dinero;
 
 export default class Cart {
  items = []
